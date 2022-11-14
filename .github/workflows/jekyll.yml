@@ -1,4 +1,4 @@
-name: Publish CUI Subsite website ###### <<<<<<<<<<<<<<<<<< CHANGE TO APPROPRIATE NAME
+name: Publish CUI at HRI 2023 workshop website ###### <<<<<<<<<<<<<<<<<< CHANGE TO APPROPRIATE NAME
 
 on:
   # Runs on pushes and merged pull requests targeting the default branch
@@ -45,5 +45,5 @@ jobs:
           user-email: 'cuitechchair@gmail.com'
           user-name: 'cuibot'
           target-branch: 'live' # This will change in the future to 'main' or equivalent
-          target-directory: 'mysubsitehere' ###### <<<<<<<<<<<<<<<<<< ENSURE YOU CHANGE THIS!!!
+          target-directory: 'workshops/HRI2023' ###### <<<<<<<<<<<<<<<<<< ENSURE YOU CHANGE THIS!!!
 
