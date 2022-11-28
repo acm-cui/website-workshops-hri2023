@@ -1,0 +1,46 @@
+// https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
+// overrides
+
+$blue:    #258DD9;
+$red:     #D93E3B;
+
+$colors: (
+  "blue":       $blue,
+  "indigo":     $indigo,
+  "purple":     $purple,
+  "pink":       $pink,
+  "red":        $red,
+  "orange":     $orange,
+  "yellow":     $yellow,
+  "green":      $green,
+  "teal":       $teal,
+  "cyan":       $cyan,
+  "white":      $white,
+  "gray":       $gray-600,
+  "gray-dark":  $gray-800
+);
+
+$primary:       #258DD9;
+$danger:        $red;
+
+$link-color:        $red;
+$link-hover-color:  shift-color($link-color, $link-shade-percentage);
+
+$code-color: #D9D90F;
+
+// end overrides
+
+$site-banner-bg:             #0A558C;
+$site-banner-bg-image:       url('../img/banner.png');
+$site-banner-fg:             $white;
+$site-banner-border-color:   #D9D80F;
+$site-banner-border:         5px solid $site-banner-border-color;
+
+$organiser-image-w: (
+  xs: 100px,
+  sm: 100px,
+  md: 200px,
+  lg: 200px,
+  xl: 200px
+);

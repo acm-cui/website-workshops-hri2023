@@ -1,0 +1,62 @@
+- name: Donald McMillan
+  website: https://mcmillan.it/
+  image: mcmillan.jpg
+  biography: >-
+    is an Assistant Professor at Stockholm University's Department of Computer and Systems Sciences. His research lies at the juncture between HRI, HCI and computer science in investigating how observational methods that provide detailed perspectives on human communication can be applied to improve sensing and interaction with novel devices. . 
+
+- name: Benjamin R. Cowan
+  website: http://www.benjamincowan.com/
+  image: ben-cowan.jpg
+  biography:  >-
+    is an Associate Professor at University College Dublin’s School of 
+    Information & Communication Studies. His research lies at the juncture 
+    between psychology, HCI and computer science in investigating how 
+    theoretical perspectives in human communication can be applied to 
+    understand phenomena in speech based human-machine communication. He has 
+    published widely on user centered issues in conversational and speech 
+    interface interaction, is co-founder of the international Conversational 
+    User Interfaces (CUI) conference series and has been involved in a number 
+    of workshops on this topic at CHI and Mobile HCI. 
+
+- name: Joel Fischer
+  website: 
+  image: noimage.png
+  biography:  >-
+    is a Professor of Human-Computer Interaction at the School of Computer Science, University of Nottingham, UK and Research Director on the UKRI Trustworthy Autonomous Systems (TAS) Hub. His research takes a human-centred view on AI-infused technologies to understand and support human activities and reasoning. He has co-organised international workshops and published widely on related topics spanning robotics and conversational systems, frequently drawing on perspectives from Ethnomethodology and Conversation Analysis.
+
+- name: Razan Jaber
+  website: 
+  image: noimage2.png
+  biography:  >-
+    is a final year Ph.D. student at Stockholm University's Department of Computer and Systems Sciences. Her work centers around the combination of conversational user interfaces with other modalities of interaction, with a focus on including \textit{gaze}. Her work draws upon human-human interaction and conversation analysis as a resource for CUI development.
+
+- name: Bahar Irfan
+  website: 
+  image: noimage.png
+  biography:  >-
+     is a Postdoctoral Researcher and Digital Futures fellow at KTH Royal Institute of Technology. Her research focuses on creating personal robots that continually learn and adapt to assist in everyday life. %Previously, she was a Research and Development Associate at Evinoks Service Equipment Industry and Commerce Inc., developing customizable software for industrial robots, virtual reality applications, and smart buffets. Prior to that, she worked as an R\&D Lab Associate at Disney Research Los Angeles on emotional language adaptation in multiparty interactions.  She has a diverse background in robotics, from personalization in long-term human-robot interaction during her PhD at the University of Plymouth and SoftBank Robotics Europe as a Marie Sk\l{}odowska-Curie Actions fellow to user-centred task planning for household robotics at Bo\u{g}azi\c{c}i University.
+
+- name: Ronald Cumbal
+  website: 
+  image: noimage2.png
+  biography:  >-
+     is a PhD student at the division of Speech, Music and Hearing (TMH) at KTH Royal Institute of Technology. His work focuses on (spoken) interactions with socially adaptive robots for one-on-one and multi-party settings. Currently, his research explores robot assisted second language learning for adults, game based multi-party interactions, and adaptive dialogue systems.
+
+- name: Nima Zargham
+  website: 
+  image: noimage.png
+  biography:  >-
+     is a Ph.D. student in the digital media lab at the University of Bremen. His research focuses on enhancing the user experience of speech-based systems for personal use. He concentrates on human-centred approaches for designing voice-based systems in domestic settings, as well as for entertainment. 
+
+- name: Minha Lee
+  website: https://minha-lee.github.io/
+  image: minha-lee.png
+  biography: >-
+    is an Assistant Professor at the Eindhoven University of Technology at the 
+    department of Industrial Design, with a background in philosophy, digital 
+    arts, and HCI. Her research is about morally relevant interactions with 
+    technological agents like robots or chatbots. Her work explores how we can 
+    explore our moral self-identity through conversations with digital entities, 
+    e.g., via acting compassionately towards a chatbot. She has organized 
+    workshops at relevant conferences: CSCW '20–'21, IUI '21, HRI '2021, and 
+    Philosophy of Human-Technology Relations (PHTR) '20. 
