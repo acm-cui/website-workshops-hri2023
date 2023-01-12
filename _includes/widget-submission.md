@@ -1,2 +1,2 @@
 ### Submission
- Papers should be submitted to [Donald McMillan](mailto:donald.mcmillan@dsv.su.se) by email.
+ Papers should be submitted via [EasyChair](https://easychair.org/conferences/?conf=hrci23)

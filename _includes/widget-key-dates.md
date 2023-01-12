@@ -1,10 +1,10 @@
 ### Key dates
 
 **Submissions due**<br>
-February (early)TBD, 2023
+February 12th, 2023
 
 **Notifications sent**<br>
-February, 2023
+February 24th, 2023
 
 **Camera-ready submission deadline**<br>
 TBD
