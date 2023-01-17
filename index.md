@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the workshop
-sidebar: [ "key-dates", "registration" ]
+sidebar: [ "key-dates", "registration", "submission" ]
 
 nav_text: About
 nav_position: 0

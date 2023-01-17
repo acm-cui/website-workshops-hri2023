@@ -7,7 +7,7 @@ February 12th, 2023
 February 24th, 2023
 
 **Camera-ready submission deadline**<br>
-TBD
+March 8th, 2023
 
 **Workshop date**<br>
-March 13th, 2023
+Morning of March 13th, 2023
