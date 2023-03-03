@@ -9,16 +9,18 @@ nav_position: 3
 
 
 
+
 Schedule:<br>
 <ul>
 <li>09:00 - 09:05: Opening remarks</li>
-<li>09:05 - 09:45: Keynote by Dr. Cristina Zaga</li>
-<li>09:45 - 10:25: Author presentations from the 3-4 papers most relevant to the disussion</li>
-<li>10:25 - 10:40: Coffee break</li>
-<li>10:40 - 11:25: Group Discussion: Identifying shared goals, challenges and potential future projects for HR-C-I</li>
-<li>11:25 - 12:00: Report back & collect ideas for participants to collaborate on HRI Provocations papers</li>
-<li>12:00 - 12:45: Provocations Kickstart. Groups around each prospective paper sketch the contents and design prototypes or experiments</li>
-<li>12:45 - 13:00: Wrap up with findings from the workshop</li>
+<li>09:05 - 09:45: Invited speaker</li>
+<li>09:45 - 10:25: Focus Paper Presentations</li>
+<li>09:45 - 10:25: Lightning Paper Presentations</li>
+<li>11:00 - 11:30: Coffee break</li>
+<li>11:30 - 12:00: Group Discussion: Identifying challenges and potential future projects for HR-C-I</li>
+<li>12:00 - 12:15: Report back & colleate challenges</li>
+<li>12:15 - 12:45: Provocations Kickstart. Groups around each challenge sketch the future work that would need to be done to address it.</li>
+<li>12:45 - 13:00: Report back and final thought. </li>
 </ul>
 
 Keynote Speaker:<br>
