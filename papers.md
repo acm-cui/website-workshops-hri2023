@@ -6,10 +6,7 @@ nav_text: Accepted papers
 nav_position: 3
 ---
 
-
-The accepted papers will be available here before the workshop, if you would like to submit please check out our [Call for Papers](https://www.conversationaluserinterfaces.org/workshops/HRI2023/call-for-papers.html) page for details about submitting to the workshop. 
-
-<!-- <table>
+<table>
   <tr>
     <th>Themes</th>
     <th>Author(s)</th>
@@ -31,4 +28,3 @@ The accepted papers will be available here before the workshop, if you would lik
 
 {% endfor %}
 </table>
--->

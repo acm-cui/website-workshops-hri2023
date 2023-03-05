@@ -1,5 +1,38 @@
-- theme: 'Nothing Yet'
+- theme: 'Accepted Papers'
   papers:
-    - title: 'Not yet'
-      authors: Noboty
-      pdf: pdfs/Nothing.pdf
+    - title: 'Conversations with Identity Performing Robots: Considerations for Algorithms and Interfaces'
+      authors: Alexandra Bejarano, Sebastian Negrete-Alamillo and Tom Williams
+      pdf: pdfs/HRCI23_paper_12.pdf
+    - title: 'A Whisper ROS Wrapper to Enable Automatic Speech Recognition in Embedded Systems'
+      authors: Andrés Ramírez and Mary Ellen Foster
+      pdf: pdfs/HRCI23_paper_10.pdf
+    - title: 'Your personal chatbot coach to change your CO2 footprint'
+      authors: Baptiste Jacquet, Maxime Bourlier, Laura Caravona, Luis Martinez Izquierdo, Francisco Javier Riménez Rios, Frank Jamet, Joachim Engel, Laura Martignon, Laura Macchi and Jean Baratgin
+      pdf: pdfs/HRCI23_paper_8.pdf
+    - title: 'TaskMaster: A Novel Cross-platform Task-based Spoken Dialogue System for Human-Robot Interaction'
+      authors: Carl Strathearn, Yanchao Yu and Dimitra Gkatzia
+      pdf: pdfs/HRCI23_paper_5.pdf
+    - title: 'Bilingual Robots to Explore Cognitive Effects of Bilingualism thru Human-Robot Interaction'
+      authors: Casey Bennett, Say Young Kim and Benjamin Weiss
+      pdf: pdfs/HRCI23_paper_3.pdf     
+    - title: 'Embedding spatiotemporal context for conversations with autonomous mobile robots'
+      authors: Elliott Hauser, Justin Hart, Samuel Baker and Luis Sentis
+      pdf: pdfs/HRCI23_paper_11.pdf
+    - title: 'Designing Better Human-Robot Interactions Through Enactment, Engagement and Reflection'
+      authors: Hannah Pelikan, David Porfirio and Katie Winkle
+      pdf: pdfs/HRCI23_paper_7.pdf
+    - title: 'Sequential annotations for naturally-occurring HRI : first insights'
+      authors: Lucien Tisserand, Frédéric Armetta, Heike Baldauf-Quilliatre, Antoine Bouquin, Salima Hassas and Mathieu Lefort
+      pdf: pdfs/HRCI23_paper_9.pdf
+    - title: 'Why is My Social Robot so Slow? How a Conversational Listener can Revolutionize Turn-Taking'
+      authors: Matthew Aylett, Andrea Carmantini and David Braude
+      pdf: pdfs/HRCI23_paper_2.pdf
+    - title: 'Robots Who Interrupt Talk in Meetings'
+      authors: Olli Niinivaara
+      pdf: pdfs/HRCI23_paper_4.pdf
+    - title: 'Who's in Charge? Roles and Responsibilities of Decision-Making Components in Conversational Robots'
+      authors: Pierre Lison and Casey Kennington
+      pdf: pdfs/HRCI23_paper_6.pdf
+    - title: 'Integrating Open Source Software for an Adaptive Conversational Robot'
+      authors: Saparkhan Kassymbekov, Ilyas Issa and Anara Sandygulova
+      pdf: pdfs/HRCI23_paper_1.pdf                                           
