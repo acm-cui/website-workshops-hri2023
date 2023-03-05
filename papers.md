@@ -14,7 +14,6 @@ nav_position: 3
   {% for entry in site.data.papers %}
   {% for paper in entry.papers %}
   <tr>
-    <td></td>
     <td>{{paper.authors}}</td>
     <td><a href="{{ paper.pdf | absolute_url }}" title="View the PDF of {{ paper.title }}">{{ paper.title }}</a></td>
   </tr>
