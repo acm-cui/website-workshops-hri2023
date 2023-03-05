@@ -8,16 +8,10 @@ nav_position: 3
 
 <table>
   <tr>
-    <th>Themes</th>
     <th>Author(s)</th>
     <th>Title</th>
   </tr>
   {% for entry in site.data.papers %}
-  <tr>
-    <td>{{ entry.theme}}</td>
-    <td></td>
-    <td></td>
-  </tr>
   {% for paper in entry.papers %}
   <tr>
     <td></td>
