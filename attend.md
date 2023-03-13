@@ -15,7 +15,23 @@ Schedule:<br>
 <li>09:00 - 09:05: Opening remarks</li>
 <li>09:05 - 09:45: Invited speaker</li>
 <li>09:45 - 10:25: Focus Paper Presentations</li>
-<li>09:45 - 10:25: Lightning Paper Presentations</li>
+<ul>
+<li> TaskMaster: A Novel Cross-platform Task-based Spoken Dialogue System for Human-Robot Interaction, Carl Strathearn</li>
+<li> Sequential annotations for naturally-occurring HRI : first insights, Lucien Tisserand</li>
+<li> Your personal chatbot coach to change your CO2 footprint, Baptiste Jacquet</li>
+<li> Who's in Charge? Roles and Responsibilities of Decision-Making Components in Conversational Robots, Pierre Lison</li>
+<li> Designing Better Human-Robot Interactions Through Enactment, Engagement, and Reflection, David Porfirio</li>
+</ul>
+<li>10:25 - 11:00: Lightning Paper Presentations</li>
+<ul>
+<li>Conversations with Identity Performing Robots: Considerations for Algorithms and Interfaces, Alexandra Bejarano</li>
+<li>Why is My Social Robot so Slow? How a Conversational Listener can Revolutionize Turn-Taking, Matthew Aylett</li>
+<li>Bilingual Robots to Explore Cognitive Effects of Bilingualism thru Human-Robot Interaction, Casey Bennett</li>
+<li>Robots Who Interrupt Talk in Meetings, Olli Niinivaara</li>
+<li>Integrating Open Source Software for an Adaptive Conversational Robot, Ilyas Issa </li>
+<li>'Integrating Open Source Software for an Adaptive Conversational Robot',  Ilyas Issa </li>
+<li>A Whisper ROS Wrapper to Enable Automatic Speech Recognition in Embedded Systems, Andrés Alberto Ramírez Duque </li>
+</ul>
 <li>11:00 - 11:30: Coffee break</li>
 <li>11:30 - 12:00: Group Discussion: Identifying challenges and potential future projects for HR-C-I</li>
 <li>12:00 - 12:15: Report back & colleate challenges</li>
