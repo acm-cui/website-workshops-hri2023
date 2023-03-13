@@ -29,7 +29,6 @@ Schedule:<br>
 <li>Bilingual Robots to Explore Cognitive Effects of Bilingualism thru Human-Robot Interaction, Casey Bennett</li>
 <li>Robots Who Interrupt Talk in Meetings, Olli Niinivaara</li>
 <li>Integrating Open Source Software for an Adaptive Conversational Robot, Ilyas Issa </li>
-<li>'Integrating Open Source Software for an Adaptive Conversational Robot',  Ilyas Issa </li>
 <li>A Whisper ROS Wrapper to Enable Automatic Speech Recognition in Embedded Systems, Andrés Alberto Ramírez Duque </li>
 </ul>
 <li>11:00 - 11:30: Coffee break</li>
