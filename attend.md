@@ -34,9 +34,9 @@ Schedule:<br>
 </ul>
 <li>11:00 - 11:30: Coffee break</li>
 <li>11:30 - 12:00: Group Discussion: Identifying challenges and potential future projects for HR-C-I</li>
-<li>12:00 - 12:15: Report back & colleate challenges</li>
+<li>12:00 - 12:15: Report back & collate challenges</li>
 <li>12:15 - 12:45: Provocations Kickstart. Groups around each challenge sketch the future work that would need to be done to address it.</li>
-<li>12:45 - 13:00: Report back and final thought. </li>
+<li>12:45 - 13:00: Report back, final thoughts, and next steps.</li>
 </ul>
 
 Keynote Speaker:<br>
